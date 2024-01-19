@@ -6,5 +6,4 @@
 
 Here is a picture of my favorite teacher
 
-![A picture of stephen]
-(https://studysmart.studygroup.com/pluginfile.php/763153/mod_label/intro/image.png)
+![A picture of stephen](https://github.com/Polaris-7Z/First/assets/128313472/c6be0f27-cf53-407e-997f-7a1318ec4834)
