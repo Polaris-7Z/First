@@ -12,6 +12,6 @@ My favorite quote is
 >You Reap What You Sow
 
 List
--A
--B
--C
+- A
+- B
+- C
